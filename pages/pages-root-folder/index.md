@@ -6,21 +6,21 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: "whitebackground.png"
+  image_fullwidth: "header_unsplash_12.jpg"
 widget1:
-  title: "Getting Connected"
-  url: 'https://tenet-rccpii.github.io/rccpii-2018/connectivity'
+  title: "User Resources"
+  url: 'https://tenet-rccpii.github.io/TENET-VideoConferencing/users'
   image: connect.jpg
-  text: 'Since 2010 <em>RCCP I</em> and <em>RCCP II</em> have been working with stakeholders to bring Internet connectivity to various higher education and research sites around South Africa. The project is a collaboration between DHET, USAF, TENET, and others.'
+  text: 'Want to try Vidyo for your next online meeting or presentation? Trying to connect but getting stuck? The team at TENET is working hard to develop resources that will answer all your questions. Learn more here...'
 widget2:
-  title: "Communicate & Collaborate"
-  url: 'https://tenet-rccpii.github.io/rccpii-2018/econversations'
-  text: 'In 2018 <em>RCCP II</em> will provide many opportunities for academic and support staff to get together and learn from each other and from various local and international experts. A large focus will be on online communication and collaboration. See you online!'
+  title: "Administrator Resources"
+  url: 'https://tenet-rccpii.github.io/TENET-VideoConferencing/admins'
+  text: 'TENET is working with video conferencing professionals around the world, to help administrators at institutions provide better support to end users. Please read more here...'
   image: collaborate.jpg
 widget3:
-  title: "Developing Human Capacity"
-  url: 'https://tenet-rccpii.github.io/rccpii-2018/images/RCCPII_ToC2018-03-12.pdf'
-  text: 'Learn more about the <em>RCCP II</em> Capacity Development Initiative. We have developed a Theory of Change document to show exactly who the intended audiences are, what we aim to provide, how we will work and what the intended outcomes will be. We look forward to be working with our communities.'
+  title: "News & Updates"
+  url: 'https://tenet-rccpii.github.io/TENET-VideoConferencing/blog'
+  text: 'We're building a vibrant community of video conferencing administrators, users, and support staff across South Africa. Learn about training opportunities, new resources, and updates. We also want to hear from you about your Vidyo experience. Read our blog." 
   image: home-never-stop-learning.png
 #
 # Use the call for action to show a button on the frontpage
