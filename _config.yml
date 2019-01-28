@@ -8,13 +8,13 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'The Rural Campus Connectivity Project 2018'
+title: 'TENET Video Conferencing Project'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'Connect. Collaborate. Capacitate.'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'The Rural Campus Connectivity Project (RCCP II) is funded by the DHET, managed by Universities South Africa (USAF) and implemented by the Tertiary Research and Education Network (TENET) of SA. The capacity development initiatives are managed by Talarify. We aim to bring connectivity to tertiary education and research institutions and help them foster a culture of collaborative connectedness.'
+description: 'TENET’s Vidyo Service in an exciting initiative designed to hugely improve the opportunities for video collaboration and content sharing for South African tertiary education and research.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
@@ -26,11 +26,11 @@ author: Talarify
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://tenet-rccpii.github.io'
-baseurl: '/rccpii-2018'
+baseurl: '/TENET-VideoConferencing'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/tenet-rccpii/rccpii-2018/edit/gh-pages
+improve_content: https://github.com/tenet-rccpii/TENET-VideoConferencing/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -38,11 +38,11 @@ improve_content: https://github.com/tenet-rccpii/rccpii-2018/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://tenet-rccpii.github.io/rccpii-2018/images/'
+urlimg: 'https://tenet-rccpii.github.io/TENET-VideoConferencing/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: "webconferencing-frontpage.jpg"
 
 # Gems
 gems:
