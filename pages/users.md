@@ -7,17 +7,7 @@ header:
     image_fullwidth: "whitebackground.png"
 ---
 
-## Helpguides
-
-
-
-## Screencasts
-
-
-
-## User Stories
-
-
+Users blah blah
 
 
 
