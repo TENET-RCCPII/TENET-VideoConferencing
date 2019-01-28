@@ -6,66 +6,37 @@
   url: "/about/"
   side: left
   dropdown:
-  - title: "Governance"
-    url: "/about/governance/"
-  - title: "Reports"
-    url: "/about/reports/"
+  - title: "People"
+    url: "/about/people/"
     
-- title: "Connectivity"
-  url: "/connectivity/"
+- title: "Sites"
+  url: "/sites/"
   side: left
 
-- title: "eConversation Series"
-  url: "/econversations/"
+- title: "User Support"
+  url: "/users/"
   side: left
   dropdown:
-  - title: "IT Series"
-    url: "/econversations/it/"
-  - title: "General Series"
-    url: "/econversations/general/"
-  - title: "FAQ: Video conferencing support"
-    url: "/econversations/video-support/"
-  - title: "FAQ: Video conferencing etiquette"
-    url: "/econversations/video-etiquette"
-  - title: "FAQ: Video conferencing troubleshooting"
-    url: "/econversations/video-trouble/"
+  - title: "Getting help"
+    url: "/users/help/"
+  - title: "Contact us"
+    url: "/users/contact/"
 
-- title: "Workshops"
-  url: "/workshops/"
+- title: "Admin Support"
+  url: "/admins/"
   side: left
   dropdown:
-  - title: "Programming & Data Analyis"
-    url: "/workshops/carpentries/"
-  - title: "Carpentries Instructor Training"
-    url: "/workshops/instructor-training/"
-  - title: "ITIL"
-    url: "/workshops/itil/"
-  - title: "CSIRT"
-    url: "/workshops/csirt/"
-  - title: "Network Monitoring"
-    url: "/workshops/network/"
-  - title: "Research & T&L Enablers"
-    url: "/workshops/enablers/"
-  - title: "eLearning"
-    url: "/workshops/elearning/"
-     
-- title: "Mentorship"
-  url: "/mentorship/"
-  side: left
-  dropdown:
-  - title: "Task Force"
-    url: "/mentorship/carpentries-tf/"
+  - title: "Getting help"
+    url: "/admins/help/"
+  - title: "Contact us"
+    url: "/admins/contact/"
   
-- title: "Blog"
+- title: "News & Updates"
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Blog Archive"
+  - title: "News Archive"
     url: "/blog/archive/"
-
-- title: "Code of Conduct"
-  url: "/coc/"
-  side: left
 
 - title: "Search"
   url: "/search/"
