@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "About RCCPII"
-teaser: "Since 2010 RCCP I and RCCP II have been working with stakeholders to bring Internet connectivity to various higher education and research sites around South Africa. The project is a collaboration between DHET, USAF, TENET, and others."
+title: "The TENET Video Conferencing Project Background"
+teaser: "Since 2016 TENET has been supporting Vidyo at higher education and research institutes in South Africa."
 permalink: "/about/"
 header:
   image_fullwidth: "whitebackground.png"
@@ -10,21 +10,8 @@ header:
 
 ## Background
 
-The Rural Campuses Connection Project (RCCP) was undertaken to provide 
-high-bandwidth connections for rural university campuses to the South 
-African National Research Network (SANReN). The then HESA received a 
-grant of R28 million from the Department of Higher Education and Training 
-(DHET) for the project in 2010, and appointed the Tertiary Education and 
-Research Network of South Africa (TENET) as the implementing agency.
+Vidyo is a videoconferencing platform that was developed to address some of the problems that traditional videoconferencing has. These problems lie particularly in the ability of these approaches to easily scale between meeting rooms, the desktop and laptop computer environment and using mobile devices and the ability to have many participants in a meeting without sacrificing quality. Vidyo is able to do this in part by virtue of the fact that its VidyoRouter does no encoding, re-encoding or compositing – all the activity relating to these activities takes place on the end point devices – leveraging the power of modern computing devices.
 
-In  2015  the  DHET  approved  a  new  grant  of  R71  million 
-to  HESA  for  the  program proposed under RCCP II.  The proposal envisaged a more rounded and coherent 
-intervention that would aim not only to deploy technology but also to augment the 
-capacity to use that technology for educational purposes. Thus a significant training 
-component was included in the RCCP II proposal - not merely for formal technical skill 
-building  but  also  for  more  complex capacity  problems  such  as  policy  and  process 
-development  capabilities. RCCP II aims to build upon the achievements of, and lessons learned in RCCP I.
+Endpoints in Vidyo can range from high end room systems with multiple screens through to setups that are similar to traditional videoconferencing setups, through to a PC with a conference camera/speaker/microphone device in a seminar room to an individual on a laptop to someone using a smart phone top connect over LTE or 3G.
 
-All reports are available [online]({{ site.url }}{{ site.baseurl }}/about/reports/).
-
-Read more about RCCP governance [here]({{ site.url }}{{ site.baseurl }}/about/governance/).
+Vidyo does not leave the traditional world of videoconferencing behind. TENET has put in place a number of Vidyo’s VidyoGateways that allow H.323/SIP endpoints to join Vidyo meetings.
