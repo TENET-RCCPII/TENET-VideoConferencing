@@ -15,13 +15,13 @@ widget1:
 widget2:
   title: "Administrator Resources"
   url: 'https://tenet-rccpii.github.io/TENET-VideoConferencing/admins'
-  text: 'TENET is working with video conferencing professionals around the world, to help administrators at institutions provide better support to end users. Please read more here...'
   image: collaborate.jpg
+  text: 'TENET is working with video conferencing professionals around the world, to help administrators at institutions provide better support to end users. Please read more here...'
 widget3:
   title: "News & Updates"
   url: 'https://tenet-rccpii.github.io/TENET-VideoConferencing/blog'
-  text: 'We're building a vibrant community of video conferencing administrators, users, and support staff across South Africa. Learn about training opportunities, new resources, and updates. We also want to hear from you about your Vidyo experience. Read our blog.'
   image: home-never-stop-learning.png
+  text: 'We are building a vibrant community of video conferencing administrators, users, and support staff across South Africa. Learn about training opportunities, new resources, and updates. We also want to hear from you about your Vidyo experience. Read our blog.'
 #
 # Use the call for action to show a button on the frontpage
 #
