@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "News & Updates"
   url: 'https://tenet-rccpii.github.io/TENET-VideoConferencing/blog'
-  text: 'We're building a vibrant community of video conferencing administrators, users, and support staff across South Africa. Learn about training opportunities, new resources, and updates. We also want to hear from you about your Vidyo experience. Read our blog." 
+  text: 'We're building a vibrant community of video conferencing administrators, users, and support staff across South Africa. Learn about training opportunities, new resources, and updates. We also want to hear from you about your Vidyo experience. Read our blog.'
   image: home-never-stop-learning.png
 #
 # Use the call for action to show a button on the frontpage
