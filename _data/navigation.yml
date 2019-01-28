@@ -18,18 +18,18 @@
   side: left
   dropdown:
   - title: "Getting help"
-    url: "/users/help/"
+    url: "/users/u-help/"
   - title: "Contact us"
-    url: "/users/contact/"
+    url: "/users/u-contact/"
 
 - title: "Admin Support"
   url: "/admins/"
   side: left
   dropdown:
   - title: "Getting help"
-    url: "/admins/help/"
+    url: "/admins/a-help/"
   - title: "Contact us"
-    url: "/admins/contact/"
+    url: "/admins/a-contact/"
   
 - title: "News & Updates"
   url: "/blog/"
