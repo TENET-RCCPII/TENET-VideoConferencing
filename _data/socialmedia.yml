@@ -1,15 +1,15 @@
-- name: GitHub
-  url: http://github.com/tenet-rccpii
-  class: icon-github
-  title: Repositories for workshops etc...
+#- name: GitHub
+#  url: http://github.com/tenet-rccpii
+#  class: icon-github
+#  title: Repositories for workshops etc...
 
-- name: YouTube
-  url: http://www.youtube.com/
-  class: icon-youtube
-  title: "Videos"
+#- name: YouTube
+#  url: http://www.youtube.com/
+#  class: icon-youtube
+#  title: "Videos"
 
 - name: Twitter
-  url: http://twitter.com/rccpii
+  url: https://twitter.com/tenetnews
   class: icon-twitter
   title: "Follow us on Twitter"
 
