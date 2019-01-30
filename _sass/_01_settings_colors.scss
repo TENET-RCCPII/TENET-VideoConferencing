@@ -26,8 +26,8 @@ $body-bg: 			#fdfdfd;
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
-$ci-1: #7b3d3f;		// logo red
-$ci-2: #d90e0e;		// dark red logo
+$ci-1: #d90e0e;		// logo red
+$ci-2: #7b3d3f;		// dark red logo
 $ci-3: #EFC94C;		// yellow
 $ci-4: #E27A3F;		// orange
 $ci-5: #DF4949;		// red
@@ -39,9 +39,9 @@ $ci-6: #45B29D;     // green/turquoise
 ------------------------------------------------------------------- */
 
 $primary-color: $ci-1;
-$secondary-color: $ci-6;
+$secondary-color: $ci-2;
 $alert-color: $ci-5;
-$success-color: $ci-2;
+$success-color: $ci-6;
 $warning-color: $ci-4;
 $info-color: $ci-1;
 
@@ -86,9 +86,9 @@ $topbar-link-color-active-hover: #000;
 $topbar-dropdown-label-color: $ci-2;
 $topbar-dropdown-link-bg-hover: $ci-2;
 
-$topbar-link-bg-active: $ci-2; // Active Navigation Link
-$topbar-link-bg-hover: $ci-2;
-$topbar-link-bg-active-hover: $ci-2;
+$topbar-link-bg-active: $ci-1; // Active Navigation Link
+$topbar-link-bg-hover: $ci-1;
+$topbar-link-bg-active-hover: $ci-1;
 
 
 $topbar-dropdown-bg: $ci-2; // Background Mobile Navigation
