@@ -33,8 +33,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://calendar.google.com/calendar/embed?src=beg31jqblfp9bb2sd8eba2fpgs%40group.calendar.google.com&ctz=Africa%2FJohannesburg
-  text: View and subscribe to the RCCP II events calendar ›
+  url: https://tenet-rccpii.github.io/TENET-VideoConferencing/institutions
+  text: Find out if your institution offers Vidyo ›
   style: alert
 permalink: /index.html
 #
