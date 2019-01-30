@@ -6,21 +6,21 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: "header_unsplash_12.jpg"
+  image_fullwidth: "header-webconf.jpg"
 widget1:
   title: "User Resources"
   url: 'https://tenet-rccpii.github.io/TENET-VideoConferencing/users'
-  image: connect.jpg
+  image: users.jpg
   text: 'Want to try Vidyo for your next online meeting or presentation? Trying to connect but getting stuck? The team at TENET is working hard to develop resources that will answer all your questions. Learn more here...'
 widget2:
   title: "Administrator Resources"
   url: 'https://tenet-rccpii.github.io/TENET-VideoConferencing/admins'
-  image: collaborate.jpg
+  image: admins.jpg
   text: 'TENET is working with video conferencing professionals around the world, to help administrators at institutions provide better support to end users. Please read more here...'
 widget3:
   title: "News & Updates"
   url: 'https://tenet-rccpii.github.io/TENET-VideoConferencing/blog'
-  image: home-never-stop-learning.png
+  image: news.png
   text: 'We are building a vibrant community of video conferencing administrators, users, and support staff across South Africa. Learn about training opportunities, new resources, and updates. We also want to hear from you about your Vidyo experience. Read our blog.'
 #
 # Use the call for action to show a button on the frontpage
