@@ -30,6 +30,14 @@
     url: "/admins/a-help/"
   - title: "Contact us"
     url: "/admins/a-contact/"
+    
+- title: "Institutions"
+  url: "/institutions/"
+  side: left
+  
+- title: "Video Conferencing Platform"
+  url: "/video-conferencing/"
+  side: left
   
 - title: "News & Updates"
   url: "/blog/"
