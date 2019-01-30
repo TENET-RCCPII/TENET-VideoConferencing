@@ -11,7 +11,7 @@
 title: 'TENET Video Conferencing Project'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Connect. Collaborate. Capacitate.'
+slogan: 'Connecting for Collaboration.'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: 'TENET’s Vidyo Service in an exciting initiative designed to hugely improve the opportunities for video collaboration and content sharing for South African tertiary education and research.'
@@ -192,7 +192,7 @@ og_type: 'website'
 #
 
 socialmedia:
-    twitter: rccpii
+    twitter: tenetnews
 #    facebook: phlow.media
 
 
@@ -205,7 +205,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: rccpii
+disqus_shortname: tenet-vc
 
 
 #      _____
