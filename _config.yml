@@ -42,7 +42,7 @@ urlimg: 'https://tenet-rccpii.github.io/TENET-VideoConferencing/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "webconferencing-frontpage.jpg"
+logo: "logo-videosite.png"
 
 # Gems
 gems:
