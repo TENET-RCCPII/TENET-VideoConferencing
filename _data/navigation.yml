@@ -8,10 +8,6 @@
   dropdown:
   - title: "People"
     url: "/about/people/"
-    
-- title: "Sites"
-  url: "/sites/"
-  side: left
 
 - title: "User Support"
   url: "/users/"
