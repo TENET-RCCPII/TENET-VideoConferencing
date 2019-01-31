@@ -17,6 +17,8 @@
     url: "/users/u-help/"
   - title: "Request username"
     url: "/users/u-username-request"
+  - title: "Guides"
+    url: "/users/u-guides"
   - title: "Contact us"
     url: "/users/u-contact/"
 
