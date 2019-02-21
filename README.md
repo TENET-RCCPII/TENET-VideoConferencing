@@ -1,11 +1,26 @@
 # About this Website
 
-The Rural Campus Connectivity Project I and II has been running since 2010. In 2018, we would 
-like to create greater awareness of the project, specifically the Capacity Development elements
-of RCCP II.
+TENET’s Vidyo Service in an exciting initiative designed to hugely 
+improve the opportunities for video collaboration and content sharing 
+for South African tertiary education and research.
 
-The project is funded by the Department of Higher Education and Training in South Africa.
+In collaboration with RCCPII this website has been developed to help end-users
+as well as administrators get easier access to resources and support to make 
+the most of their Vidyo experience. 
 
-Please get in touch if you can't find the information you're looking for or would like to get involved.
+You might also find useful information on the 
+[previous version of the website](https://tenetvc.wordpress.com/) or at the 
+[official Vidyo website](https://www.vidyo.com/).
 
+# Contribute
 
+We appreciate any contributions from users to improve the contents/layout of
+this website and are therefore hosting it on Github.
+
+Instructions for contributions can be found in the 
+[Contribute.md file]({{ base_url }}/Contribute.md).
+
+If you have suggestions for improvements, please open an 
+[Issue]({{ base_url }}/issues). More information about issues and how to create
+an issue in Github can be found on 
+[this page](https://guides.github.com/features/issues/).
