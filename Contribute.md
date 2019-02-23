@@ -12,7 +12,7 @@ Please note we have a [code of conduct](CodeConduct.md),
 
 1. Visit the [Github website](https://guides.github.com/features/issues/)
  to learn more about issues if you are new to this.
-2. Go to the [issues tab in the Github repository](issues).
+2. Go to the [issues tab in the Github repository]({{ site.url }}/issues).
 3. Look through existing issues to see if your question, concern, or suggestion
 has already been raised.
 4. If your question, suggestion, or concern is new, create a new issue 
