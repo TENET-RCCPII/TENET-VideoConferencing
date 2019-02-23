@@ -5,7 +5,7 @@ the change you wish to make via [issue]({{ base_url }}/issues),
 email, or any other method with the owners of this 
 repository before making a change. 
 
-Please note we have a [code of conduct]({{ base_url }}/CodeConduct.md],
+Please note we have a [code of conduct](CodeConduct.md],
  please follow it in all your interactions with the project.
 
 ## Creating an issue
