@@ -13,4 +13,4 @@ header:
 4. Scheduling a Vdiyo meeting *(coming soon)*
 
 Let us know what guides you want by creating an issue on our website repositories. Instructions available 
-[here](https://github.com/TENET-RCCPII/TENET-VideoConferencing/Contribute.md).
+[here](https://github.com/TENET-RCCPII/TENET-VideoConferencing/blob/gh-pages/Contribute.md).
