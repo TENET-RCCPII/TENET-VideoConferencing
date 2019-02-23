@@ -1,7 +1,7 @@
 # Contributing
 
 When contributing to this repository, please first discuss 
-the change you wish to make via [issue]({{ site.new_baseurl }}/issues),
+the change you wish to make via [issue]({{ baseurl }}),
 email, or any other method with the owners of this 
 repository before making a change. 
 
