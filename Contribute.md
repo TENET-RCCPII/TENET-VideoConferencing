@@ -8,7 +8,7 @@ repository before making a change.
 Please note we have a [code of conduct](CodeConduct.md),
  please follow it in all your interactions with the project.
 
-## Creating an issue
+## Creating an Issue
 
 1. Visit the [Github website](https://guides.github.com/features/issues/)
  to learn more about issues if you are new to this.
@@ -117,3 +117,31 @@ To contribute a blog post, please follow these steps:
    - Below the closing `---` you can type the blog post in Markdown format. Learn more about [Markdown](https://www.markdownguide.org/basic-syntax). Don't be afraid of Markdown. It is a relatively easy-to-use markup language.
    - For more examples on the formatting, look at previous blog posts in the repository's [`_posts` folder](_posts).
    
+## Changing the Navigation Menu
+
+- There are two steps to changing the navigation menu:
+
+  - Adding or removing an item on the menu itself
+  - Creating or deleting a page that is linked to from the relevant navigation menu item
+  
+- To add or remove an item on the navigation menu:
+
+  - Navigate to the [`_data/navigation.yml`](_data/navigation.yml) folder in the repository.
+  - Click on the little pencil icon to edit the file.
+  - Each individual navigation menu item is listed in this file with its relevant information like link, submenu items, their links, etc.
+  - Make very sure that the spacing remains the same when deleting or adding an item.
+  - To add a main menu item to the file simply add the following lines (replace the example text with your desired title, and url, also note whether this menu item should appear on the left of the page or on the right):
+  ```
+  - title: "Video Conferencing Platform"
+    url: "/video-conferencing/"
+    side: left
+   ```
+  - To add a submenu item simply add the following lines underneath an existing main menu item after adding `dropdown`. Our submenu example is added to the existing `News & Updates` main menu item:
+  ```
+  - title: "News & Updates"
+    url: "/blog/"
+    side: left
+    dropdown:
+    - title: "News Archive"
+      url: "/blog/archive/"
+  ```
