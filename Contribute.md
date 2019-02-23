@@ -44,23 +44,44 @@ To contribute a blog post, please follow these steps:
  - Make sure you are on the `gh-pages` branch. Learn more 
    [about branches here](https://help.github.com/en/articles/viewing-branches-in-your-repository).
  - Navigate to the [_posts folder](_posts).
- - If the topic you want to publish a blog post on already exist, click
+ - If the topic you want to publish a blog post on already exists, click
    on the relevent link.
  - If you are writing about a new topic, create a new directory by clicking 
    `Create new file`.
 
    - You will create the new topic folder together with the new file in one
      go.
-   - In the empty box that appears next to `_posts/` add the name of your topic
+   - In the empty box that appears next to `_posts/` type the name of your topic
      followed by a `/` followed by the name of your file for the post.
-   - Folder naming conventions: all small letters, no spaces. Keep it short
-   - File naming conventions: `yyyy-mm-dd-file-name.md`.
-     
+   
+     - Folder naming conventions: all small letters, no spaces. Keep it short
+     - File naming conventions: `yyyy-mm-dd-file-name.md`.
      - It is critical to name the files and folders correctly to ensure 
        your blog post will appear on the website.
      - An exammple of what you may enter in the step above is:
        `large-events/2028-10-20-largest-vidyo-event-held.md`
      - The extension `md` is to show that this file will be written in
        [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
-
+   
+   - In the big open box you can type your blog post. The post should always start with the header in the format:
+   `---
+    layout: page
+    subheadline: fixme 
+    title:  "fixme"
+    teaser: "fixme"
+    meta_teaser: ""
+    breadcrumb: true
+    categories:
+        - fixme - name of folder in which the post is created
+    header:
+        image_fullwidth: "whitebackground.png"
+    tags:
+        - fixme
+        - fixme
+        - fixme
+        - fixme
+    author: fixme
+    ---`
+    - Replace the `fixme` in every line with the relevant text. Where you see `"` being used, please do not delete these as   
+    it is critical for rendering the website correctly
  
