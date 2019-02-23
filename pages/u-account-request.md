@@ -4,7 +4,7 @@ title: "Request an Account"
 teaser: ""
 permalink: "/users/u-account-request/"
 header:
-    image_fullwidth: "header_programming.jpg"
+    image_fullwidth: "whitebackground.jpg"
 ---
 
 Please complete the [registration form](https://docs.google.com/forms/d/e/1FAIpQLScZedILbn96mXUZXlm6A5A_tKRkUWJQAL1vrfC1uwhBhn1P5A/viewform)
