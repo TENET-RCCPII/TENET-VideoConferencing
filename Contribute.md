@@ -12,7 +12,7 @@ Please note we have a [code of conduct](CodeConduct.md),
 
 1. Visit the [Github website](https://guides.github.com/features/issues/)
  to learn more about issues if you are new to this.
-2. Go to the [issues tab in the Github repository]({{ base_url }}/issues).
+2. Go to the [issues tab in the Github repository](issues).
 3. Look through existing issues to see if your question, concern, or suggestion
 has already been raised.
 4. If your question, suggestion, or concern is new, create a new issue 
@@ -43,7 +43,7 @@ To contribute a blog post, please follow these steps:
 
  - Make sure you are on the `gh-pages` branch. Learn more 
    [about branches here](https://help.github.com/en/articles/viewing-branches-in-your-repository).
- - Navigate to the [_posts folder]({{ base_url }}/_posts).
+ - Navigate to the [_posts folder](_posts).
  - If the topic you want to publish a blog post on already exist, click
    on the relevent link.
  - If you are writing about a new topic, create a new directory by clicking 
