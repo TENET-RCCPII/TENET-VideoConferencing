@@ -8,3 +8,5 @@ header:
 ---
 
 ## Contact details
+
+Please contact the [Support Team](mailto:steam@tenet.ac.za) for any administrative questions or support needs.
