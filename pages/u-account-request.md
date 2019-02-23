@@ -19,6 +19,6 @@ beyond the community that TENET serves.
 
 This is not an automted sign up, so there may be a short delay while we process your request.
 
-Please email [vidyo@tenet.ac.za(mailto:vidyo@tenet.ac.za) if you have any queries.
+Please email [vidyo@tenet.ac.za](mailto:vidyo@tenet.ac.za) if you have any queries.
 
 
