@@ -124,19 +124,19 @@ To contribute a blog post, please follow these steps:
   - Adding or removing an item on the menu itself
   - Creating or deleting a page that is linked to from the relevant navigation menu item
   
-- To add or remove an item on the navigation menu:
+### To add or remove an item on the navigation menu:
 
-  - Navigate to the [`_data/navigation.yml`](_data/navigation.yml) folder in the repository.
-  - Click on the little pencil icon to edit the file.
-  - Each individual navigation menu item is listed in this file with its relevant information like link, submenu items, their links, etc.
-  - Make very sure that the spacing remains the same when deleting or adding an item.
-  - To add a main menu item to the file simply add the following lines (replace the example text with your desired title, and url, also note whether this menu item should appear on the left of the page or on the right):
+- Navigate to the [`_data/navigation.yml`](_data/navigation.yml) folder in the repository.
+- Click on the little pencil icon to edit the file.
+- Each individual navigation menu item is listed in this file with its relevant information e.g. link, submenu items, their links, etc.
+- Make very sure that the spacing remains the same when deleting or adding an item.
+- To add a main menu item to the file simply add the following lines (replace the example text with your desired title, and url, also note whether this menu item should appear on the left of the page or on the right):
   ```
   - title: "Video Conferencing Platform"
     url: "/video-conferencing/"
     side: left
    ```
-  - To add a submenu item simply add the following lines underneath an existing main menu item after adding `dropdown`. Our submenu example is added to the existing `News & Updates` main menu item:
+- To add a submenu item simply add the following lines underneath an existing main menu item after adding `dropdown`. Our submenu example is added to the existing `News & Updates` main menu item:
   ```
   - title: "News & Updates"
     url: "/blog/"
@@ -145,3 +145,26 @@ To contribute a blog post, please follow these steps:
     - title: "News Archive"
       url: "/blog/archive/"
   ```
+
+### To create a new file for the new navigation menu or submenu item
+
+- Navigate to the [`pages`](pages) folder in the repository.
+- Create a new file with the same name as the url that was used in the `navigation.yml` file in the previous step. 
+- Remember that you are creating a Markdown file, so the file extension will be `.md`.
+- For example, in the previous step we added a dropdown menu item `archive` to the existing `blog` menu item. When we create the file to which this new menu item will link, it is called `archive.md` and is created directly in the `pages` folder.
+- Every new page that is created here, have to include the following header:
+   ```
+   ---
+   layout: page
+   title: "fixme"
+   teaser: "fixme"
+   permalink: "/blog/archive"
+   ---
+   ```
+ - Do not change the `layout: page` as this will ensure the page is formatted correctly
+ - Add a title inside the `""` 
+ - Add a teaser inside the `""` - this is a short sentence that will tell readers what information this page will contain.
+ - Add the permalink - this is the URL to the page and is the same as the URL that was added to the `navigation.yml` page in the previous step. Do not add a trailing `/` in this header though.
+ - Remember the leading and trailing `---` to denote the header.
+
+- The rest of the page can now be created in [Markdown](https://www.markdownguide.org/basic-syntax). Markdown is a simple, easy-to-use markup language used in many contexts to format documents. 
