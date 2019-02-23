@@ -15,8 +15,8 @@
   dropdown:
   - title: "Getting help"
     url: "/users/u-help/"
-  - title: "Request username"
-    url: "/users/u-username-request"
+  - title: "Request Vidyo login"
+    url: "/users/u-account-request"
   - title: "Guides"
     url: "/users/u-guides"
   - title: "Contact us"
