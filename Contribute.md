@@ -7,6 +7,23 @@ repository before making a change.
 
 Please note we have a [code of conduct](CodeConduct.md),
  please follow it in all your interactions with the project.
+ 
+Also note that you will not be able to change the website directly, so will have to make a copy of the repository and make changes in the copy. Once you are happy with your changes you can create a [`Pull Request`](https://help.github.com/en/articles/about-pull-requests) which will notify the project owner of your suggestions and will allow them to add it to the website.
+ 
+## Creating a Github Account
+
+- To contribute to this website, you will need to sign up for a free Github account.
+- Please visit the [Github website](https://github.com/) and follow the instructions for creating an account
+- Remember to confirm your email address by clicking on the link that will be sent to the address that was used to create the Github account.
+
+## Making a Copy of the Repository to Contribute Content
+
+- Log into your Github account.
+- Navigate to the [TENET-VideoConferencing repository](https://github.com/TENET-RCCPII/TENET-VideoConferencing/) on Github.
+- To make a copy of this repository, click on `Fork` in the top right corner. This will create a copy of the repository under your username.
+- Once the copying process is finished follow these steps under your username's copy of the website repository.
+- Make sure you are on the `gh-pages` branch. Learn more 
+   [about branches here](https://help.github.com/en/articles/viewing-branches-in-your-repository).
 
 ## Creating an Issue
 
@@ -18,10 +35,6 @@ has already been raised.
 4. If your question, suggestion, or concern is new, create a new issue 
 as follows:
 
- - Before being able to create an issue, you will have to [create a free
-   account on Github](https://github.com/).
- - Remember to confirm your email address by clicking on the link that
-   will be sent to the address that was used to create the Github account.
  - Github offers a guide for [creating an issue](https://help.github.com/en/articles/creating-an-issue).
  - Make sure the issue title gives clear indication of the topic.
  - Provide enough context in the body of the issue for the project team
@@ -41,8 +54,7 @@ To contribute a blog post, please follow these steps:
 [via email](mailto:vidyo@tenet.ac.za).
 2. If you are familiar with Github, follow these steps:
 
- - Make sure you are on the `gh-pages` branch. Learn more 
-   [about branches here](https://help.github.com/en/articles/viewing-branches-in-your-repository).
+ - Log into Github (or [create your free acount](#creating-a-github-account).
  - Navigate to the [_posts folder](_posts).
  - If the topic you want to publish a blog post on already exists, click
    on the relevent link.
@@ -117,6 +129,11 @@ To contribute a blog post, please follow these steps:
    - Below the closing `---` you can type the blog post in Markdown format. Learn more about [Markdown](https://www.markdownguide.org/basic-syntax). Don't be afraid of Markdown. It is a relatively easy-to-use markup language.
    - For more examples on the formatting, look at previous blog posts in the repository's [`_posts` folder](_posts).
    - Remember to add a short commit message at the bottom of the page and click on `Commit changes` once you are happy with your contributions.
+   - When you are done with your changes, click on `Pull Requests` at the top of the page.
+   - Click on `New Pull Request`.
+   - Make sure you are comparing the `gh-pages branch` copy of the website repository under your username with the original website repostiory's `gh-pages`.
+   - Leave a short message to describe what you'd like to contribute to the website.
+   - Click on `Create Pull Request`
    
 ## Changing the Navigation Menu
 
@@ -203,3 +220,9 @@ To contribute a blog post, please follow these steps:
  - Click on the filename of the file that you'd like to edit.
  - Then click on the pencil icon.
  - Remember to add a short commit message at the bottom of the page and click on `Commit changes` once you are happy with your contributions.
+ 
+## Changing the Website Logo, Slogan, Description, etc.
+
+- The website general setup is found in [`config.yml`](config.yml).
+- Make sure that the spacing and general formatting of this file stays exactly as it is to ensure correct rendering.
+- Once you've made your changes, add a short commit message at the bottom of the page and click on `Commit Changes`.
