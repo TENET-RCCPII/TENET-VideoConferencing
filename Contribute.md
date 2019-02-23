@@ -116,6 +116,7 @@ To contribute a blog post, please follow these steps:
       
    - Below the closing `---` you can type the blog post in Markdown format. Learn more about [Markdown](https://www.markdownguide.org/basic-syntax). Don't be afraid of Markdown. It is a relatively easy-to-use markup language.
    - For more examples on the formatting, look at previous blog posts in the repository's [`_posts` folder](_posts).
+   - Remember to add a short commit message at the bottom of the page and click on `Commit changes` once you are happy with your contributions.
    
 ## Changing the Navigation Menu
 
@@ -145,6 +146,7 @@ To contribute a blog post, please follow these steps:
     - title: "News Archive"
       url: "/blog/archive/"
   ```
+- Remember to add a short commit message at the bottom of the page and click on `Commit changes` once you are happy with your contributions.
 
 ### To create a new file for the new navigation menu or submenu item
 
@@ -168,3 +170,36 @@ To contribute a blog post, please follow these steps:
  - Remember the leading and trailing `---` to denote the header.
 
 - The rest of the page can now be created in [Markdown](https://www.markdownguide.org/basic-syntax). Markdown is a simple, easy-to-use markup language used in many contexts to format documents. 
+- Remember to add a short commit message at the bottom of the page and click on `Commit changes` once you are happy with your contributions.
+
+## Adding Images to Blog Posts or Pages
+
+- Upload the image to the repository's [`images`](images) folder.
+ - First navigate to the [`images`](images) folder.
+ - Click on `Upload file`.
+ - Select the file or files you want to add to the `images` folder and wait for it to upload.
+ - Remember to add a short commit message at the bottom of the page and click on `Commit changes` once you are happy with your contributions.
+ 
+- Link to the image in the relevant page or blog post using markdown and the following relative link: 
+`![description of image]({{ site.url }}{{ site.baseurl }}/images/your_image_name.png)`.
+- Remember to add a short commit message at the bottom of the page and click on `Commit changes` once you are happy with your contributions.
+
+
+## Changing the Home Page Layout, Images or Text
+
+- The file that creates the homepage is in [`pages/pages_root_folder/`](pages/pages_root_foler) and is called [`index.md`](pages/pages_root_folder/index.md).
+- You can easily edit the following elements:
+
+ - The header image (this points to an image that is available in the [`images`](images) folder).
+ - The three widgets' image, title, text, and URL to which it points.
+ - The "call for action" and where it links to.
+
+ - Remember to add a short commit message at the bottom of the page and click on `Commit changes` once you are happy with your contributions.
+ 
+ ## Changing Content on Existing Pages
+ 
+ - All the pages (except for the homepage) is available in the [`pages`](pages) folder.
+ - To find out which file links to which menu item in order to modify the correct file, visit the [`_data/navigation.yml`](_data/navigation.yml) folder.
+ - Click on the filename of the file that you'd like to edit.
+ - Then click on the pencil icon.
+ - Remember to add a short commit message at the bottom of the page and click on `Commit changes` once you are happy with your contributions.
