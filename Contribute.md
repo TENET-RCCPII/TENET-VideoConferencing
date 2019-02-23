@@ -1,7 +1,7 @@
 # Contributing
 
 When contributing to this repository, please first discuss 
-the change you wish to make via [issue]({{ base_url }}/issues),
+the change you wish to make via [issue]({{ site.base_url }}/issues),
 email, or any other method with the owners of this 
 repository before making a change. 
 
@@ -12,7 +12,7 @@ Please note we have a [code of conduct](CodeConduct.md),
 
 1. Visit the [Github website](https://guides.github.com/features/issues/)
  to learn more about issues if you are new to this.
-2. Go to the [issues tab in the Github repository]({{ site.url }}/issues).
+2. Go to the [issues tab in the Github repository]({{ site.base_url }}/issues).
 3. Look through existing issues to see if your question, concern, or suggestion
 has already been raised.
 4. If your question, suggestion, or concern is new, create a new issue 
