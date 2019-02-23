@@ -67,21 +67,37 @@ To contribute a blog post, please follow these steps:
    
 `---`
 `layout: page`
+
 `subheadline: fixme` 
+
 `title:  "fixme"`
+
 `teaser: "fixme"`
+
 `meta_teaser: ""`
+
 `breadcrumb: true`
+
 `categories:`
+
 `   - fixme - name of folder in which the post is created`
+
 `header:`
+
 `   image_fullwidth: "whitebackground.png"`
+
 `tags:`
+
 `   - fixme`
+
 `   - fixme`
+
 `   - fixme`
+
 `   - fixme`
+
 `author: fixme`
+
 `---`
     - Replace the `fixme` in every line with the relevant text. Where you see `"` being used, please do not delete these as   
     it is critical for rendering the website correctly
