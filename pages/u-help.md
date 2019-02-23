@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "User Resources"
-teaser: "Find helpguides here."
+teaser: ""
 permalink: "/users/u-help/"
 header:
     image_fullwidth: "whitebackground.png"
