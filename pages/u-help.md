@@ -9,15 +9,15 @@ header:
 
 There are various ways to connect with Vidyo. It is not essential to make use of a dedicated videoconferencing facility for smaller meetings. Connecting from your personal computer or laptop will provide can provide a very satisfactory experience if you have access to sound, video (a built-in or standalone webcam), good internet access (preferrably through ethernet cable rather than wifi), and a quiet environment (preferrably not a busy shared public space or big office). Remember to use headphones to improve your experience.
 
-For more tips on best practices for successful online meetings, please read our [best practices guide]({{ site.url }}/u-best-practices).
+For more tips on best practices for successful online meetings, please read our [best practices guide](https://tenet-rccpii.github.io/TENET-VideoConferencing/u-best-practices).
 
 ## Guides
 
-TENET is developing various user guides. For a full list of available guides please visit [this page]({{ site.url }}/u-guides).
+TENET is developing various user guides. For a full list of available guides please visit [this page](https://tenet-rccpii.github.io/TENET-VideoConferencing/u-guides).
 
-If you have suggestions for guides that can be developed to help our users, please suggest these topics by creating an issue in the website repository. Contribution guidelines and information about creating issues can be found [here]({{ site.url }}/Contribute.md).
+If you have suggestions for guides that can be developed to help our users, please suggest these topics by creating an issue in the website repository. Contribution guidelines and information about creating issues can be found [here](https://github.com/TENET-RCCPII/TENET-VideoConferencing/blob/gh-pages/Contribute.md).
 
-If you have developed useful guides or are aware of useful information that might help other users, please create an issue in the website repository and share links to good resources [there]({{ site.url }}/Contribute.md).
+If you have developed useful guides or are aware of useful information that might help other users, please create an issue in the website repository and share links to good resources [there](https://github.com/TENET-RCCPII/TENET-VideoConferencing/blob/gh-pages/Contribute.md).
 
 Official Vidyo guides:
 
