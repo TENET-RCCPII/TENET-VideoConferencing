@@ -4,7 +4,7 @@ title: "Vidyo: User Guides"
 teaser: ""
 permalink: "/users/u-guides/"
 header:
-    image_fullwidth: "header_programming.jpg"
+    image_fullwidth: "whitebackground.jpg"
 ---
 
 1. Requesting a Vidyo account from TENET *(coming soon)*
