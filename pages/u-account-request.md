@@ -2,7 +2,7 @@
 layout: page
 title: "Request an Account"
 teaser: ""
-permalink: "/users/u-request-account/"
+permalink: "/users/u-account-request/"
 header:
     image_fullwidth: "header_programming.jpg"
 ---
