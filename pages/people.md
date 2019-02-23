@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "TENET Video Conferencint Team"
+title: "TENET Video Conferencing Team"
 teaser: "Meet the people on the team."
 permalink: "/people/"
 header:
