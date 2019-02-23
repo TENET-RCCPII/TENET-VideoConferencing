@@ -2,7 +2,7 @@
 layout: page
 title: "Resources for Video Conferencing Administrators"
 teaser: ""
-permalink: "/admins/a-help"
+permalink: "/admins/a-help/"
 ---
 
 The list of guides that will be developed for administrators is currently under construction.
