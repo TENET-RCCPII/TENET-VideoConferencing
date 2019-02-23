@@ -65,7 +65,7 @@ To contribute a blog post, please follow these steps:
    
    - In the big open box you can type your blog post. The post should always start with the header in the format:
 
-`---
+```---
 layout: page
 subheadline: fixme
 title:  "fixme"
@@ -82,7 +82,7 @@ tags:
    - fixme
    - fixme
 author: fixme
----`
+---```
     - Replace the `fixme` in every line with the relevant text. Where you see `"` being used, please do not delete these as   
     it is critical for rendering the website correctly
  
