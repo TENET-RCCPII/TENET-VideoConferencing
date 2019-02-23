@@ -63,28 +63,57 @@ To contribute a blog post, please follow these steps:
      - The extension `md` is to show that this file will be written in
        [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
    
-   - In the big open box you can type your blog post. The post should always start with the header in the format:
+   - In the big open box you can type your blog post. 
+   - The post should always start with the header in the format:
 
-   ```
-   ---
-   layout: page
-   subheadline: fixme
-   title:  "fixme"
-   teaser: "fixme"
-   meta_teaser: ""
-   breadcrumb: true
-   categories:
-      - fixme - name of folder in which the post is created
-   header:
-      image_fullwidth: "whitebackground.png"
-   tags:
-      - fixme
-      - fixme
-      - fixme
-      - fixme
-   author: fixme
-   ---
-   ```
-   - Replace the `fixme` in every line with the relevant text. Where you see `"` being used, please do not delete these as   
-    it is critical for rendering the website correctly
- 
+      ```
+      ---
+      layout: page
+      subheadline: fixme
+      title:  "fixme"
+      teaser: "fixme"
+      meta_teaser: ""
+      breadcrumb: true
+      categories:
+         - fixme - name of folder in which the post is created
+      header:
+         image_fullwidth: "whitebackground.png"
+      tags:
+         - fixme
+         - fixme
+         - fixme
+         - fixme
+      author: fixme
+      ---
+      ```
+    - Replace the `fixme` in every line with the relevant text. Where you see `""` being used, please do not delete these as it is critical for rendering the website correctly.
+    - Add any number of tags (four is just an example).
+    - Keep the spacing exactly like this example.
+    - Do not remove the `---` at the beginning and end of the header.
+    - Here is an example:
+      ```
+      ---
+      layout: page
+      subheadline: Carpentries Instructor Training
+      title:  "First Carpentry Instructor Training for 2018"
+      teaser: "From 21 to 23 February 2018 researchers, postgraduate students, IT, and library staff
+      will be able to learn how to teach programming at the fourth in-person Software and Data Carpentry 
+      Instructor Training workshop in South Africa."
+      meta_teaser: ""
+      breadcrumb: true
+      categories:
+          - carpentries
+      header:
+          image_fullwidth: "whitebackground.png"
+      tags:
+          - Software Carpentry
+          - Data Carpentry
+          - Instructor Training
+          - Train-the-Trainer
+      author: Anelda van der Walt
+      ---
+      ```
+      
+   - Below the closing `---` you can type the blog post in Markdown format. Learn more about [Markdown](https://www.markdownguide.org/basic-syntax). Don't be afraid of Markdown. It is a relatively easy-to-use markup language.
+   - For more examples on the formatting, look at previous blog posts in the repository's [`_posts` folder](_posts).
+   
