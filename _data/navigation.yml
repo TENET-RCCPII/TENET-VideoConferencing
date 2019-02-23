@@ -13,8 +13,6 @@
   url: "/users/"
   side: left
   dropdown:
-  - title: "Getting help"
-    url: "/users/u-help/"
   - title: "Request Vidyo login"
     url: "/users/u-account-request"
   - title: "Guides"
