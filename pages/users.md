@@ -9,7 +9,7 @@ header:
 
 There are various ways to connect with Vidyo. It is not essential to make use of a dedicated videoconferencing facility for smaller meetings. Connecting from your personal computer or laptop will provide can provide a very satisfactory experience if you have access to sound, video (a built-in or standalone webcam), good internet access (preferrably through ethernet cable rather than wifi), and a quiet environment (preferrably not a busy shared public space or big office). Remember to use headphones to improve your experience.
 
-For more tips on best practices for successful online meetings, please read our [best practices guide](https://tenet-rccpii.github.io/TENET-VideoConferencing/u-best-practices).
+For more tips on best practices for successful online meetings, please read our [best practices guide](https://tenet-rccpii.github.io/TENET-VideoConferencing/users/u-best-practices).
 
 ## Guides
 
